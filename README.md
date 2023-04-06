@@ -4,6 +4,6 @@ If you don't know what competitive programming is about, we recommend checking o
 - https://en.wikipedia.org/wiki/Competitive_programming#:~:text=Competitive%20programming%20(also%20known%20as,referred%20to%20as%20sport%20programmers.
 - https://usaco.guide/general/intro-cp?lang=cpp.
 
-For beginners, we highly recommend reading the first few chapters (at least 4) of the Competitive Programmer's Handbook, a free pdf readable in the following website: https://cses.fi/book/book.pdf. 
+For beginners, we highly recommend reading the first few chapters (at least 4) of the Competitive Programmer's Handbook, a free pdf available in the "Beginners material" folder in this repository.
 
-Also, check out our presentation titled "Introduction to competitive programming" in the material, "Beginners resources" folder in this repository.
+Also, check out our presentation titled "Introduction to competitive programming" in the material, "Beginners material" folder in this repository.
