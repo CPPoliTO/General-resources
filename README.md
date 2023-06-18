@@ -37,6 +37,7 @@ If you need a tutorial for a specific algorithm/data structure/technique, we rec
 
 Here's what you should do to improve your skills in competitive programming. Of course, various mental aspects such as talent, motivation, interest, resilience matter in determining the speed of one's growth, but there are in my opinion some universal ideas to improve fairly quickly:
 
+- If you're just starting with competitive programming or you've started very recently, I recommend participating in our training contests and the in-person meeting we organize after each of them. This will help you a lot in understanding how to approach competitive programming problems.
 - Participate in as many rated contests as possible.
 - After you compete in a contest, try to solve later every problem you attempted but couldn't solve during the contest.
 - Practice problem from an archive, for example codeforces.com/problemset, which conveniently allows to set a difficulty range. I recommend choosing the following difficulty range: [Your Codeforces max rating, Your Codeforces max rating +200]. So if you're maximum achieved rating in Codeforces is 1270 for example, choose the range [1200, 1400]. Solve problems in this difficulty range from the most recent ones, which is the default order, until you surpass your max rating, in this example if you reach 1300 or more.
