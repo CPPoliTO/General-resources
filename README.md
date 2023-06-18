@@ -32,3 +32,15 @@ If you need a tutorial for a specific algorithm/data structure/technique, we rec
 - The competitive programmer's handbook;
 - usaco.guide;
 - Youtube channels such as Errichto and many others.
+
+# How to improve your skills / how to practice
+
+Here's what you should do to improve your skills in competitive programming. Of course, various mental aspects such as talent, motivation, interest, resilience matter in determining the speed of one's growth, but there are in my opinion some universal ideas to improve fairly quickly:
+
+- Participate in as many rated contests as possible.
+- After you compete in a contest, try to solve later every problem you attempted but couldn't solve during the contest.
+- Practice problem from an archive, for example codeforces.com/problemset, which conveniently allows to set a difficulty range. I recommend choosing the following difficulty range: [Your Codeforces max rating, Your Codeforces max rating +200]. So if you're maximum achieved rating in Codeforces is 1270 for example, choose the range [1200, 1400]. Solve problems in this difficulty range from the most recent ones, which is the default order, until you surpass your max rating, in this example if you reach 1300 or more.
+- While solving problems in practice, don't look at the problem tags (disable them in your CF profile) and don't look at hidden tests (tests which are not visible in the problem page).
+- Another VERY important thing is how to proceed if you can't solve a problem. It's generally recommended by high rated competitors to read the editorial if you're completely stuck for around 30 minutes, meaning if you have no ideas on how to proceed and you tried everything you could.
+- While reading the editorial of a problem, try to understand it carefully, especially why the solution works (the proof), what can you learn from it, how can you use this idea next time, why you couldn't come up with it yourself. Take your time with this, it's better to spend quality time on 1 problem than solving 10 problems which don't teach you anything.
+- If the editorial mentions an algorithm/data structure which is well known but you don't know about, find a tutorial on it and solve some problems on it. For example, if you find that a problem you couldn't solve requires the usage of 'Binary Search', read/watch a tutorial and solve some problems on it until you get an idea.
