@@ -17,7 +17,7 @@ We recommend everyone to take part in our training contests, which will be held 
 It is obviously mandatory to take part in some competitive programming contests to improve as a competitor. The ones we recommend for beginners are:
 
 - Atcoder beginner contests (the first problems are very easy, but the later ones can be very hard);
-- Codeforces division 3 and 4 rounds;
+- Codeforces division 2, 3 and 4 rounds;
 - Codechef starters
 - Leetcode biweekly contests.
 
