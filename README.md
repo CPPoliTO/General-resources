@@ -16,17 +16,17 @@ We recommend everyone to take part in our training contests, which will be held 
 
 It is obviously mandatory to take part in some competitive programming contests to improve as a competitor. The ones we recommend for beginners are:
 
-- Atcoder beginner contests (the first problems are very easy, but the later ones can be very hard);
-- Codeforces division 2, 3 and 4 rounds;
+- Atcoder beginner contests (the first problems are very easy, but the later ones can be very hard)
+- Codeforces division 2, 3 and 4 rounds, especially division 3 and 4
 - Codechef starters
-- Leetcode biweekly contests.
+- Leetcode biweekly contests (this is great practice also for coding interviews at big tech companies)
 
 All of the above are online contests specifically made to be accessible for absolute beginners. Other major contests are:
 
-- Atcoder Regular Contests (recommended for people with Codeforces rating >= 1400);
-- Atcoder Grand contests (recommended for people with Codeforces rating >= 1900);
-- Codeforces division 1 + 2 rounds (recommended for everybody, but they can be tough to approach for absolute beginners);
-- Codechef Cook-off and lunch-time (recommended for everybody).
+- Atcoder Regular Contests (recommended for people with Codeforces rating >= 1400)
+- Atcoder Grand contests (recommended for people with Codeforces rating >= 1900)
+- Codeforces division 1 + 2 rounds, like Global Rounds or other sponsored rounds (recommended for everybody, but they can be tough to approach for absolute beginners)
+- Codechef Cook-off and lunch-time (recommended for everybody)
 
 If you need a tutorial for a specific algorithm/data structure/technique, we recommend the following sites:
 
